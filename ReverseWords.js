@@ -35,7 +35,9 @@
 
 }*/
 
-let s="This is a sunny day";
+//let s="This is a sunny day";
+
+let s = prompt("Please enter a string:");
 
 s=reverseWords(s);
 //console.log(s.length);
